@@ -1,2 +1,2 @@
-# finger-detect-cv
-Detecting fingers in openCV
+# crap-cv
+Eye features detection in openCV
